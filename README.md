@@ -2,7 +2,7 @@
 
 - 👍 I like computers and games
 - 🔭 I’m currently working on [ServerKit](https://github.com/BugGlitchy64/ServerKit)
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and JavaScript.
 - 📫 How to reach me: Discord (BugGlitchy64#7537)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm 14.
