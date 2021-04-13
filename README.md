@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm BugGlitchy64.
 
 - 👍 I like computers and games
-- 🔭 I’m currently working on [ServerKit](BugGlitchy64/ServerKit)
+- 🔭 I’m currently working on [ServerKit](https://github.com/BugGlitchy64/ServerKit)
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: Discord (BugGlitchy64#7537)
 - 😄 Pronouns: He/Him
