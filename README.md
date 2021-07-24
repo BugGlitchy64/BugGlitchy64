@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C++ and JavaScript.
 - 📫 How to reach me: Discord (BugGlitchy64#7537)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm 14.
+- ⚡ Fun fact: I'm 15.
 
 ### Talk to me in
 
